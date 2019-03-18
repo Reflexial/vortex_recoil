@@ -10,15 +10,11 @@ Press numpad +/- and you should see a tooltip pop up showing you what value your
 
 Run as administrator.
 
-Here is the script code:
+See script code below (Yes, I know there are certain things that could be better. Especially if you're familiar with AHK.  Feel free to improve it.)
 
+-Midwest Vortex
 
-
-
-
-
-
-
+```
 
 ;#####################
 ;#     Commands     #
@@ -138,3 +134,4 @@ sleep 1
 }
 return
 mouseXY(x,y)
+```

@@ -5,7 +5,7 @@ Get AutoHotkey to use the script, or use handy compiled .exe.
 
 
 Press F3 to turn on/off.
-When you left click, it will adjust your mouse downward based on the compensation value set.
+When you hold left click, it will adjust your mouse downward based on the compensation value set.
 Press numpad +/- and you should see a tooltip pop up showing you what value your adjustment amount is at.  Probably needs to be ~5 to have a real effect.
 
 Run as administrator.
